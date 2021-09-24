@@ -1,5 +1,7 @@
 <p align="center">
-	<img src="https://raw.githubusercontent.com/ikismail/ikismail/master/user.gif"/ width=300 height =300>
+	<img src="https://smartlyhr.site/wp-content/uploads/2021/04/Learning-and-development-manager-1024x683.png" 
+  style="width:50%"
+  >
 </p>
 
 ### Hi there 👋
