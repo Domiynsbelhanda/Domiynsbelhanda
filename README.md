@@ -10,12 +10,10 @@ Software Developer, DevOps, passionate about programming, <br/> Skilled in Data 
 and Algorithms, Linux System, Open Source... <br/>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Domiynsbelhanda&show_icons=true&theme=radical)  <br/>
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/channel/UCXN-WB4kHr3KlyEMolLioxw) 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/JosueYenga)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/josue-yenga/)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/Savalone47)
-[![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/fagnerpsantos)]( https://medium.com/@josueyenga)
-[![Dev.to Badge](https://img.shields.io/badge/-Dev.to-000?style=flat-square&logo=Dev.to&logoColor=white&link=https://dev.to/fagnerpsantos)](https://dev.to/josueyenga)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/domiyns)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/youness-dominique-tshunza-6005b7a1/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/domiynsbelhanda)
+[![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/fagnerpsantos)](https://medium.com/@youness.dominique)
 
 **Languages and Tools:**
 <p>
