@@ -1,9 +1,3 @@
-<p align="center">
-	<img src="https://smartlyhr.site/wp-content/uploads/2021/04/Learning-and-development-manager-1024x683.png" 
-  style="width:50%"
-  >
-</p>
-
 ### Hi there 👋
 
 Software Developer, DevOps, passionate about programming, <br/> Skilled in Data Structures
