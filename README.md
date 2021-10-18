@@ -3,9 +3,8 @@
 Software Developer, DevOps, passionate about programming, <br/> Skilled in Data Structures
 and Algorithms, Linux System, Open Source... <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Domiynsbelhanda)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Domiynsbelhanda)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
-  <br/>
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/domiyns)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/youness-dominique-tshunza-6005b7a1/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/domiynsbelhanda)
