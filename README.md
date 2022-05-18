@@ -2,9 +2,9 @@
 
 Software Developer, Mobile and Web, <br/> UI/UX Lead (User Experience) <br /> Android passionnate, Flutter - Angular. Java Developer... <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Domiynsbelhanda)](https://github.com/anuraghazra/github-readme-stats)<br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Domiynsbelhanda&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Domiynsbelhanda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Domiynsbelhanda&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/domiyns)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/youness-dominique-tshunza-6005b7a1/)
