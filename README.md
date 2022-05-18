@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-Software Developer, DevOps, passionate about programming, <br/> Skilled in Data Structures
-and Algorithms, Linux System, Open Source... <br/>
+Software Developer, Mobile and Web, <br/> UI/UX Lead (User Experience) <br /> Android passionnate, Flutter - Angular. Java Developer... <br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Domiynsbelhanda)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
@@ -15,24 +14,15 @@ and Algorithms, Linux System, Open Source... <br/>
 **Languages and Tools:**
 <p>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/expoio/expoio-ar21.svg"></code>
 <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code> 
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"></code><br/>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-ar21.svg"></code>
 
 <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code> 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 
 <br />
    <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
