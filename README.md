@@ -16,6 +16,7 @@ Software Developer, Mobile and Web, <br/> UI/UX Lead (User Experience) <br /> An
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
 <br />
+  <code><img width="10%" src="[https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg](https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg)"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
 
