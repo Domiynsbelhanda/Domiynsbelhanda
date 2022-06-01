@@ -4,6 +4,11 @@ Software Developer, Mobile and Web, <br/> UI/UX Lead (User Experience) <br /> An
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Domiynsbelhanda&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
+<p align="center">
+  <img width="450em" src="https://github-readme-streak-stats.herokuapp.com?user=domiynsbelhanda&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img width="650em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=domiynsbelhanda&theme=github_dark" />
+</p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Domiynsbelhanda&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/domiyns)
