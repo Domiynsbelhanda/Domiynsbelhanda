@@ -9,7 +9,7 @@ Software Developer, Mobile and Web, <br/> UI/UX Lead (User Experience) <br /> An
   <img width="650em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=domiynsbelhanda&theme=github_dark" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Domiynsbelhanda&layout=compact&hide=javascript,html,scss, blade&count_private=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Domiynsbelhanda&layout=compact&count_private=true&theme=github_dark&hide=html,scss, blade)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/domiyns)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/youness-dominique-tshunza-6005b7a1/)
