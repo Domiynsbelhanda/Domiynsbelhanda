@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Software Developer, Mobile and Web, <br /> Android passionnate, Flutter - Angular. Java Developer... <br/>
+Software Developer, Mobile and Web, <br /> Android passionnate, Flutter - Angular... <br/>
 
 <p>
   <img width="450em" src="https://github-readme-streak-stats.herokuapp.com?user=domiynsbelhanda&theme=github-dark-blue&hide_border=true&" />
