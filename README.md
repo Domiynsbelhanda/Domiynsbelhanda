@@ -39,6 +39,3 @@ Software Developer, Mobile and Web, <br /> Android passionnate, Flutter - Angula
    <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   </p>
 
-
-
-
