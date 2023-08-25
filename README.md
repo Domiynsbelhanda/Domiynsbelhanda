@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 Software Developer, Mobile and Web, <br /> Android passionnate, Flutter - Angular... <br/>
 
 <p>
